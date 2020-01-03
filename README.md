@@ -1,1 +1,1 @@
-# Data-Analysis---Fnatic-MSI-2018
+# Data-Analysis: Fnatic-MSI-2018
